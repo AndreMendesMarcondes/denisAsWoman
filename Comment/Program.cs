@@ -38,7 +38,7 @@ namespace Comment
 
             options.AddArgument("--start-maximized");
             options.AddArgument("--disable-notifications");
-            var driver = new ChromeDriver(Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName, options);
+            var driver = new ChromeDriver(Directory.GetCurrentDirectory(), options);
             return driver;
         }
     }
