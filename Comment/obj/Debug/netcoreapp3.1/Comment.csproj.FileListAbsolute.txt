@@ -1,0 +1,16 @@
+C:\Users\andre.marcondes\source\repos\Comment\Comment\bin\Debug\netcoreapp3.1\Comment.exe
+C:\Users\andre.marcondes\source\repos\Comment\Comment\obj\Debug\netcoreapp3.1\Comment.AssemblyInfoInputs.cache
+C:\Users\andre.marcondes\source\repos\Comment\Comment\obj\Debug\netcoreapp3.1\Comment.AssemblyInfo.cs
+C:\Users\andre.marcondes\source\repos\Comment\Comment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\andre.marcondes\source\repos\Comment\Comment\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\andre.marcondes\source\repos\Comment\Comment\obj\Debug\netcoreapp3.1\Comment.csproj.CopyComplete
+C:\Users\andre.marcondes\source\repos\Comment\Comment\bin\Debug\netcoreapp3.1\Comment.deps.json
+C:\Users\andre.marcondes\source\repos\Comment\Comment\bin\Debug\netcoreapp3.1\Comment.runtimeconfig.json
+C:\Users\andre.marcondes\source\repos\Comment\Comment\bin\Debug\netcoreapp3.1\Comment.runtimeconfig.dev.json
+C:\Users\andre.marcondes\source\repos\Comment\Comment\bin\Debug\netcoreapp3.1\Comment.dll
+C:\Users\andre.marcondes\source\repos\Comment\Comment\bin\Debug\netcoreapp3.1\Comment.pdb
+C:\Users\andre.marcondes\source\repos\Comment\Comment\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\andre.marcondes\source\repos\Comment\Comment\obj\Debug\netcoreapp3.1\Comment.dll
+C:\Users\andre.marcondes\source\repos\Comment\Comment\obj\Debug\netcoreapp3.1\Comment.pdb
+C:\Users\andre.marcondes\source\repos\Comment\Comment\obj\Debug\netcoreapp3.1\Comment.genruntimeconfig.cache
+C:\Users\andre.marcondes\source\repos\Comment\Comment\obj\Debug\netcoreapp3.1\Comment.csproj.CoreCompileInputs.cache
