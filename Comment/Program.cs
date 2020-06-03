@@ -1,6 +1,7 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using System;
+using System.IO;
 
 namespace Comment
 {
@@ -34,10 +35,10 @@ namespace Comment
         static IWebDriver LaunchBrowser()
         {
             var options = new ChromeOptions();
+
             options.AddArgument("--start-maximized");
             options.AddArgument("--disable-notifications");
-
-            var driver = new ChromeDriver(Environment.CurrentDirectory, options);
+            var driver = new ChromeDriver(Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName, options);
             return driver;
         }
     }

@@ -14,3 +14,4 @@ C:\Users\andre.marcondes\source\repos\Comment\Comment\obj\Debug\netcoreapp3.1\Co
 C:\Users\andre.marcondes\source\repos\Comment\Comment\obj\Debug\netcoreapp3.1\Comment.pdb
 C:\Users\andre.marcondes\source\repos\Comment\Comment\obj\Debug\netcoreapp3.1\Comment.genruntimeconfig.cache
 C:\Users\andre.marcondes\source\repos\Comment\Comment\obj\Debug\netcoreapp3.1\Comment.csproj.CoreCompileInputs.cache
+C:\Users\andre.marcondes\source\repos\Comment\Comment\obj\Debug\netcoreapp3.1\Comment.csprojAssemblyReference.cache
