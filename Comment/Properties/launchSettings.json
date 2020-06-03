@@ -1,14 +1,11 @@
 {
   "profiles": {
     "Comment": {
-      "commandName": "Project"
-    },
-    "Docker": {
-      "commandName": "Docker",
+      "commandName": "Project",
       "environmentVariables": {
         "email": "",
         "pass": ""
       }
-    }
+    }    
   }
 }

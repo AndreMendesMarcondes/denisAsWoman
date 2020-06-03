@@ -14,3 +14,4 @@ C:\Users\andre.marcondes\source\repos\Comment\Comment\obj\Release\netcoreapp3.1\
 C:\Users\andre.marcondes\source\repos\Comment\Comment\obj\Release\netcoreapp3.1\Comment.dll
 C:\Users\andre.marcondes\source\repos\Comment\Comment\obj\Release\netcoreapp3.1\Comment.pdb
 C:\Users\andre.marcondes\source\repos\Comment\Comment\obj\Release\netcoreapp3.1\Comment.genruntimeconfig.cache
+C:\Users\andre.marcondes\source\repos\Comment\Comment\obj\Release\netcoreapp3.1\Comment.csprojAssemblyReference.cache
